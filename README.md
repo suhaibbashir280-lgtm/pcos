@@ -1,1 +1,1 @@
-# pcos
+Deep learning algorithm for Polycystic ovary syndrome detection
